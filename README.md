@@ -1,2 +1,2 @@
 # wp-lembrete
-Programar alertas, notificaciones o alarmas desde Wordpress via e-mail, o webhook
+Programar alertas, recordatorios, notificaciones o alarmas desde Wordpress via e-mail, o webhook.
